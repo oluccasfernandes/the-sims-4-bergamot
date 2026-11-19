@@ -188,4 +188,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*The Sims 4 · Updated 2026-11-18 · Shared under the MIT License*
+*The Sims 4 · Updated 2026-11-19 · Shared under the MIT License*
